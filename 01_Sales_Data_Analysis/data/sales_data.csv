@@ -1,0 +1,181 @@
+order_id,order_date,region,category,product,quantity,unit_price
+S0001,2025-01-08,West,Home,Lamp,4,1362
+S0002,2025-02-15,East,Stationery,Pen Set,4,246
+S0003,2025-03-22,North,Electronics,Headphones,4,4527
+S0004,2025-04-02,East,Home,Lamp,1,1435
+S0005,2025-05-09,South,Electronics,Headphones,3,3823
+S0006,2025-06-16,North,Stationery,Pen Set,4,371
+S0007,2025-07-23,South,Electronics,Mouse,2,4757
+S0008,2025-08-03,South,Electronics,Mouse,5,3449
+S0009,2025-09-10,East,Electronics,Headphones,5,1607
+S0010,2025-10-17,East,Home,Organizer,5,373
+S0011,2025-11-24,North,Home,Bottle,5,679
+S0012,2025-12-04,South,Electronics,Mouse,5,4838
+S0013,2025-01-11,North,Electronics,Keyboard,4,2170
+S0014,2025-02-18,South,Home,Lamp,1,612
+S0015,2025-03-25,West,Stationery,Pen Set,4,66
+S0016,2025-04-05,South,Electronics,Headphones,4,1421
+S0017,2025-05-12,South,Home,Lamp,5,361
+S0018,2025-06-19,South,Stationery,Notebook,1,481
+S0019,2025-07-26,North,Home,Bottle,2,488
+S0020,2025-08-06,North,Stationery,Pen Set,3,356
+S0021,2025-09-13,South,Electronics,Headphones,2,1940
+S0022,2025-10-20,South,Stationery,Notebook,5,166
+S0023,2025-11-27,West,Home,Bottle,1,158
+S0024,2025-12-07,South,Electronics,Mouse,4,4091
+S0025,2025-01-14,West,Stationery,Pen Set,5,333
+S0026,2025-02-21,East,Stationery,Planner,3,595
+S0027,2025-03-01,North,Electronics,Headphones,4,1309
+S0028,2025-04-08,West,Stationery,Pen Set,3,377
+S0029,2025-05-15,North,Home,Bottle,4,478
+S0030,2025-06-22,North,Stationery,Pen Set,4,334
+S0031,2025-07-02,North,Electronics,Keyboard,5,1998
+S0032,2025-08-09,North,Home,Lamp,1,1309
+S0033,2025-09-16,North,Home,Lamp,4,1711
+S0034,2025-10-23,North,Electronics,Keyboard,2,2441
+S0035,2025-11-03,East,Stationery,Planner,1,419
+S0036,2025-12-10,South,Stationery,Planner,1,173
+S0037,2025-01-17,West,Electronics,Mouse,3,1939
+S0038,2025-02-24,East,Stationery,Notebook,1,154
+S0039,2025-03-04,South,Electronics,Keyboard,4,1557
+S0040,2025-04-11,East,Home,Organizer,5,1242
+S0041,2025-05-18,East,Stationery,Notebook,4,182
+S0042,2025-06-25,South,Home,Lamp,5,959
+S0043,2025-07-05,North,Electronics,Headphones,1,3387
+S0044,2025-08-12,West,Home,Organizer,3,1117
+S0045,2025-09-19,West,Electronics,Keyboard,2,1087
+S0046,2025-10-26,West,Home,Bottle,5,183
+S0047,2025-11-06,North,Electronics,Keyboard,4,2358
+S0048,2025-12-13,North,Electronics,Keyboard,4,3933
+S0049,2025-01-20,South,Home,Bottle,5,1622
+S0050,2025-02-27,North,Electronics,Mouse,4,4602
+S0051,2025-03-07,North,Home,Organizer,5,1463
+S0052,2025-04-14,East,Electronics,Mouse,3,2508
+S0053,2025-05-21,East,Home,Organizer,3,1031
+S0054,2025-06-01,North,Stationery,Notebook,2,206
+S0055,2025-07-08,North,Stationery,Notebook,1,163
+S0056,2025-08-15,East,Electronics,Mouse,3,4706
+S0057,2025-09-22,South,Stationery,Planner,1,57
+S0058,2025-10-02,North,Stationery,Notebook,2,550
+S0059,2025-11-09,West,Home,Lamp,1,1704
+S0060,2025-12-16,East,Stationery,Notebook,5,64
+S0061,2025-01-23,North,Stationery,Planner,4,558
+S0062,2025-02-03,East,Home,Bottle,1,490
+S0063,2025-03-10,West,Electronics,Headphones,5,1945
+S0064,2025-04-17,North,Electronics,Headphones,5,2489
+S0065,2025-05-24,East,Stationery,Notebook,1,490
+S0066,2025-06-04,North,Electronics,Mouse,2,4902
+S0067,2025-07-11,South,Electronics,Keyboard,5,4282
+S0068,2025-08-18,South,Stationery,Notebook,2,148
+S0069,2025-09-25,North,Electronics,Mouse,4,3853
+S0070,2025-10-05,West,Electronics,Headphones,3,2975
+S0071,2025-11-12,West,Home,Lamp,5,1133
+S0072,2025-12-19,South,Stationery,Pen Set,5,67
+S0073,2025-01-26,South,Stationery,Notebook,1,386
+S0074,2025-02-06,West,Stationery,Planner,3,197
+S0075,2025-03-13,West,Electronics,Mouse,2,3049
+S0076,2025-04-20,South,Stationery,Pen Set,1,397
+S0077,2025-05-27,East,Home,Bottle,1,1144
+S0078,2025-06-07,North,Home,Organizer,1,712
+S0079,2025-07-14,South,Stationery,Planner,5,485
+S0080,2025-08-21,South,Electronics,Mouse,2,2935
+S0081,2025-09-01,West,Stationery,Notebook,3,379
+S0082,2025-10-08,North,Home,Organizer,4,1354
+S0083,2025-11-15,South,Home,Organizer,1,283
+S0084,2025-12-22,East,Electronics,Headphones,2,4365
+S0085,2025-01-02,West,Electronics,Mouse,5,3776
+S0086,2025-02-09,North,Electronics,Mouse,2,4050
+S0087,2025-03-16,North,Stationery,Planner,2,455
+S0088,2025-04-23,South,Home,Lamp,5,1751
+S0089,2025-05-03,East,Electronics,Mouse,5,2369
+S0090,2025-06-10,East,Electronics,Headphones,3,3324
+S0091,2025-07-17,West,Home,Organizer,2,502
+S0092,2025-08-24,West,Electronics,Mouse,1,2483
+S0093,2025-09-04,South,Stationery,Pen Set,2,280
+S0094,2025-10-11,West,Electronics,Mouse,1,3209
+S0095,2025-11-18,South,Electronics,Keyboard,1,2376
+S0096,2025-12-25,North,Stationery,Notebook,5,430
+S0097,2025-01-05,West,Electronics,Mouse,1,4169
+S0098,2025-02-12,North,Electronics,Keyboard,1,1296
+S0099,2025-03-19,South,Electronics,Headphones,1,1688
+S0100,2025-04-26,North,Stationery,Pen Set,1,549
+S0101,2025-05-06,West,Stationery,Planner,1,378
+S0102,2025-06-13,East,Stationery,Pen Set,5,83
+S0103,2025-07-20,East,Stationery,Planner,1,548
+S0104,2025-08-27,East,Electronics,Keyboard,2,3377
+S0105,2025-09-07,East,Home,Lamp,4,263
+S0106,2025-10-14,South,Stationery,Planner,5,466
+S0107,2025-11-21,West,Electronics,Mouse,1,2104
+S0108,2025-12-01,West,Stationery,Notebook,3,103
+S0109,2025-01-08,North,Electronics,Keyboard,3,1577
+S0110,2025-02-15,East,Electronics,Mouse,2,3946
+S0111,2025-03-22,East,Electronics,Keyboard,4,2067
+S0112,2025-04-02,South,Electronics,Mouse,5,4002
+S0113,2025-05-09,West,Home,Lamp,1,882
+S0114,2025-06-16,West,Stationery,Planner,5,281
+S0115,2025-07-23,West,Home,Lamp,3,1088
+S0116,2025-08-03,East,Electronics,Headphones,2,3417
+S0117,2025-09-10,South,Electronics,Keyboard,1,4552
+S0118,2025-10-17,East,Electronics,Mouse,1,1095
+S0119,2025-11-24,North,Electronics,Headphones,3,1563
+S0120,2025-12-04,East,Electronics,Keyboard,2,1753
+S0121,2025-01-11,East,Stationery,Notebook,1,363
+S0122,2025-02-18,West,Home,Organizer,5,634
+S0123,2025-03-25,West,Stationery,Pen Set,5,233
+S0124,2025-04-05,West,Home,Organizer,1,780
+S0125,2025-05-12,North,Home,Lamp,3,1375
+S0126,2025-06-19,West,Stationery,Notebook,3,180
+S0127,2025-07-26,East,Home,Bottle,3,1728
+S0128,2025-08-06,East,Electronics,Mouse,4,4019
+S0129,2025-09-13,South,Electronics,Headphones,3,1752
+S0130,2025-10-20,North,Electronics,Keyboard,2,4165
+S0131,2025-11-27,South,Stationery,Notebook,5,133
+S0132,2025-12-07,South,Electronics,Headphones,4,3279
+S0133,2025-01-14,West,Home,Lamp,4,631
+S0134,2025-02-21,East,Stationery,Notebook,4,524
+S0135,2025-03-01,North,Electronics,Headphones,3,2663
+S0136,2025-04-08,North,Stationery,Notebook,5,67
+S0137,2025-05-15,East,Stationery,Notebook,3,530
+S0138,2025-06-22,South,Electronics,Headphones,3,3858
+S0139,2025-07-02,South,Home,Lamp,2,1607
+S0140,2025-08-09,West,Electronics,Mouse,5,1783
+S0141,2025-09-16,West,Stationery,Planner,3,461
+S0142,2025-10-23,South,Stationery,Planner,5,397
+S0143,2025-11-03,North,Electronics,Mouse,4,1202
+S0144,2025-12-10,South,Stationery,Pen Set,2,195
+S0145,2025-01-17,East,Home,Lamp,4,1181
+S0146,2025-02-24,West,Electronics,Headphones,5,911
+S0147,2025-03-04,South,Home,Bottle,5,867
+S0148,2025-04-11,West,Home,Bottle,1,168
+S0149,2025-05-18,South,Electronics,Mouse,5,4901
+S0150,2025-06-25,North,Stationery,Notebook,1,140
+S0151,2025-07-05,East,Home,Bottle,3,1158
+S0152,2025-08-12,South,Electronics,Mouse,5,4600
+S0153,2025-09-19,South,Home,Lamp,2,1649
+S0154,2025-10-26,West,Stationery,Planner,3,321
+S0155,2025-11-06,South,Stationery,Pen Set,1,106
+S0156,2025-12-13,North,Electronics,Keyboard,3,3296
+S0157,2025-01-20,East,Home,Bottle,5,430
+S0158,2025-02-27,North,Electronics,Headphones,2,4159
+S0159,2025-03-07,East,Home,Lamp,5,645
+S0160,2025-04-14,East,Electronics,Keyboard,2,3435
+S0161,2025-05-21,South,Home,Lamp,4,714
+S0162,2025-06-01,North,Electronics,Headphones,2,4980
+S0163,2025-07-08,West,Stationery,Notebook,4,345
+S0164,2025-08-15,West,Home,Organizer,3,995
+S0165,2025-09-22,East,Home,Bottle,1,289
+S0166,2025-10-02,East,Home,Bottle,2,1453
+S0167,2025-11-09,East,Stationery,Pen Set,3,329
+S0168,2025-12-16,West,Stationery,Pen Set,2,145
+S0169,2025-01-23,East,Electronics,Keyboard,5,4754
+S0170,2025-02-03,West,Home,Organizer,2,1175
+S0171,2025-03-10,South,Stationery,Pen Set,1,91
+S0172,2025-04-17,West,Electronics,Keyboard,4,4511
+S0173,2025-05-24,North,Home,Lamp,2,1485
+S0174,2025-06-04,North,Electronics,Headphones,1,3526
+S0175,2025-07-11,East,Stationery,Planner,1,322
+S0176,2025-08-18,North,Home,Bottle,2,1458
+S0177,2025-09-25,East,Electronics,Mouse,5,3096
+S0178,2025-10-05,North,Home,Organizer,2,314
+S0179,2025-11-12,North,Stationery,Pen Set,4,536
+S0180,2025-12-19,West,Electronics,Headphones,4,3566
